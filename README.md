@@ -1,4 +1,4 @@
-local ClientIdWL = {
+local _G.ClientIdWL = {
     "b1d7aa41-24d0-49f7-a88b-d04e28741bfa", -- Arinchai sobmor Tester
     "e4db5545-d26e-4b55-94ba-e248c6e19f89", -- 608297010046435341
     "7DA3FD2C-D081-42A4-B342-EE87ADF9D65C", -- Nakawin Nobnorb
